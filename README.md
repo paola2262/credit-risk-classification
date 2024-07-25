@@ -50,6 +50,6 @@ The logistic regression model is the best performer. It predicts healthy loans (
 
 Does performance depend on the problem we are trying to solve?
 
-Yes, performance depends on the problem. For loan classification, it’s more important to accurately predict high-risk loans (class 1) to avoid financial losses from defaults. While the model is excellent at predicting healthy loans, it could be better at predicting high-risk loans. The dataset is imbalanced, with many more healthy loans (18,723) than high-risk loans (661), which affects the model's performance for high-risk loans.
+Yes, performance depends on the problem. For loan classification, it’s more important to accurately predict high-risk loans (class 1) to avoid financial losses from defaults. While the model is excellent at predicting healthy loans, it could be better at predicting high-risk loans. 
 
 I recommend using the logistic regression model because it performs very well overall. To improve predictions for high-risk loans, gather more data on these types of loans. This would help balance the dataset and potentially make the model better at identifying high-risk loans, reducing financial risks.
