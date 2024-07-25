@@ -3,11 +3,9 @@ Challenge 20
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 * Explain the purpose of the analysis.
 
-The purpose of this analysis is to predict if a loan is being healthy (0) or high-risk (1) using financial data.
+The purpose of this Challenge is to predict if a loan is being healthy (0) or high-risk (1) using financial data.
 
 I used logistic regression to classify our model into two categories. The analysis focused on financial data, including loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The goal was to predict the loan status, labeling it as either a healthy loan (0) or a high-risk loan (1).
 
